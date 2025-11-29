@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Data
+data/
+output/
+temp/
+
+# Node
+node_modules/
+
+# Playwright
+.playwright/
+.playwright-mcp/
+
+# Credentials
+credentials.json
+secrets.json
